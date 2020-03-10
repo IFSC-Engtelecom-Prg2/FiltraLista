@@ -4,7 +4,7 @@ Uma lista armazena um conjunto de números inteiros. Escreva uma função que co
 
 ```c++
 // copia para "nova" todos os valores de "lval" maiores que "limiar"
-void filtra(lista<int> & nova, lista<int> & lval, int limiar);
+void filtra(list<int> & nova, list<int> & lval, int limiar);
 ```
 
 Use iteração para acessar os contadores da lista.
